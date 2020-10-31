@@ -44,7 +44,7 @@ This application allows the user to find available COVID Testing Sites near thei
 * css is cleaned up and entire site made ewth full mobile first design.
 
 ## Link to Deployed Application
-https://gavin56.github.io/covid-locator/
+https://dargenioa.github.io/covidTestingTracker/
 
 <br>
 
