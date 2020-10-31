@@ -51,6 +51,8 @@ https://gavin56.github.io/covid-locator/
 ## Website Images
 
 <img src="./assets/Screen Shot 2020-10-30 at 7.40.36 PM.png">
-<hr>
+<br><hr>
 <img src="./assets/Screen Shot 2020-10-30 at 7.41.00 PM.png">
+<br><hr>
 <img src="./assets/Screen Shot 2020-10-30 at 7.42.01 PM.png">
+<br><hr>
